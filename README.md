@@ -10,8 +10,10 @@ To apply this license to your work:
 3. Attribute the original work (if applicable) clearly and visibly.
 
 4. Do not use this license for commercial purposes or derivative works intended for sale.
+<!-- SPWL Review Trigger -->
 
-5. Encourage others to use this license by linking to https://github.com/satorusource/satoru-license-initiative (or your future mirror).
+
+6. Encourage others to use this license by linking to https://github.com/satorusource/satoru-license-initiative (or your future mirror).
 
 Note: This license is not certified by any state authority. It is a declaration of intent and philosophical commitment to shared wisdom.
 
